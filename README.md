@@ -6,20 +6,20 @@ This project is a comprehensive review of digital forensics processes and tools,
 
 ## Table of Contents
 
-1. [Installation of Linux](https://github.com/your-repo/wiki/Installation-of-Linux)
-2. [System Update](https://github.com/your-repo/wiki/System-Update)
-3. [Linux Commands](https://github.com/your-repo/wiki/Linux-Commands)
-4. [Prepare Linux for Digital Forensics](https://github.com/your-repo/wiki/Prepare-Linux-for-Digital-Forensics)
-5. [Installing Interpreters](https://github.com/your-repo/wiki/Installing-Interpreters)
-6. [Working with Images](https://github.com/your-repo/wiki/Working-with-Images)
-7. [Sleuth Kit](https://github.com/your-repo/wiki/Sleuth-Kit)
-8. [Hashing and Carving](https://github.com/your-repo/wiki/Hashing-and-Carving)
-9. [Linux Systems and Artifacts](https://github.com/your-repo/wiki/Linux-Systems-and-Artifacts)
-10. [User Accounts](https://github.com/your-repo/wiki/User-Accounts)
+1. [Installation of Linux](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-1:Installation-of-Linux)
+2. [System Update](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-2:sudo-apt-update-&&-sudo-apt-upgrade)
+3. [Linux Commands](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-3:Applying-Essential-Linux-Commands)
+4. [Prepare Linux for Digital Forensics](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-4:-Prepare-Linux-as-a-Host-for-Digital-Forensics)
+5. [Installing Interpreters](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-5:Installing-Interpreters)
+6. [Working with Images](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-6:-Working-with-Images,-Forensics-Container)
+7. [Sleuth Kit](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-7:-Sleuth-Kit)
+8. [Hashing and Carving](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-8:-Hashing-and-Carving)
+9. [Linux Systems and Artifacts](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-9:-Linux-Systems-and-Artifacts)
+10. [User Accounts](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki/Step-10:-User-Accounts)
 
 ## Detailed Instructions
 
-For detailed instructions and steps for each section, please refer to the respective pages in the [Project Wiki](https://github.com/Digital-Forensics-review-Lecture/wiki).
+For detailed instructions and steps for each section, please refer to the respective pages in the [Project Wiki](https://github.com/batooldshilleh/Digital-Forensics-review-Lecture/wiki).
 
 ### Notes
 
