@@ -27,8 +27,6 @@ For detailed instructions and steps for each section, please refer to the respec
 - Ensure that you follow the steps in the wiki carefully for a successful implementation.
 
 ## References
-
-- [Digital Forensics Techniques](https://www.example.com/digital-forensics-techniques)
 - [Linux Commands Documentation](https://man7.org/linux/man-pages/)
 - [Sleuth Kit Official Page](https://github.com/sleuthkit/sleuthkit)
 
